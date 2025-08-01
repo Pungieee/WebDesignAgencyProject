@@ -5,7 +5,7 @@ The site is a mock landing page for a creative agency. It highlights two main se
 
 _Beauty_ – clean, modern design
 
-_Construction _– strong structure and layout
+_Construction_ – strong structure and layout
 
 I used the Poppins font from Google Fonts, and added media queries to make sure the layout looks good on both desktop and mobile screens.
 
